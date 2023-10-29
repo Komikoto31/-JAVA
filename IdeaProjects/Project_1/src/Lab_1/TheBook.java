@@ -1,6 +1,5 @@
 package Lab_1;
 
-import Lab_1.Book;
 
 public class TheBook {
     public static void main(String[] arg){
